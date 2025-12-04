@@ -92,8 +92,6 @@ Comprehensive testing was performed to validate contract security and functional
 | **TransferFrom (Valid)** | Tokens move from Owner → Receiver. | Transfer event emitted. | ✅ Passed |
 | **TransferFrom (Over Limit)** | Transaction reverts. | Error: "Insufficient allowance" | ✅ Passed |
 
-> **Note:** Screenshots of all console outputs and revert logs are included in the project documentation.
-
 ## What I Learned
 
 Building this project helped solidify my understanding of:
